@@ -155,3 +155,17 @@ ul#nav li a{
 .location-box h4{
   font-weight: normal;
 }
+
+/* CONTACT */
+#contact-container{
+  display: flex;
+  flex-direction: column;
+  height: 200px;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0 auto;
+}
+
+#contact-container h2{
+  margin: 0;
+}
