@@ -172,6 +172,5 @@ ul#nav li a{
 
 /* FOOTER */
 footer{
-  margin-left: 20px;
-  margin-bottom: 40px;
+  margin: 40px 20px 40px 0;
 }
